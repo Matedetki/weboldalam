@@ -3,6 +3,12 @@ body{
     background-image: url("img/mango.jpg");
     background-size: 1600px;
 }
+
 .szavak{
-    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    font-size:larger;
+}
+
+.kep{
+    
 }
