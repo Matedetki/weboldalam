@@ -1,0 +1,18 @@
+body{
+    background-color: orange;
+    background-image: url("img/mango.jpg");
+    background-size: 1600px;
+}
+
+.szavak{
+    font-variant: small-caps;
+    font-size:larger;
+}
+
+.rigby{
+    color:  rgb(255, 255, 255);
+    font-size: 25px;
+}
+h1{
+font-family: sans-serif;
+}
