@@ -16,3 +16,9 @@ body{
 h1{
 font-family: sans-serif;
 }
+.low{
+ background-image: url(img/mario.webp);
+ width: 200px;
+ height: 200px;
+ color:purple;
+}
