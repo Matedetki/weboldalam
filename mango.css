@@ -16,3 +16,12 @@ body{
 h1{
 font-family: sans-serif;
 }
+<<<<<<< HEAD
+=======
+.low{
+ background-image: url(img/mario.webp);
+ width: 200px;
+ height: 200px;
+ color:purple;
+}
+>>>>>>> a43b73694cb985f45a8c8a293e8db3416dba1804
